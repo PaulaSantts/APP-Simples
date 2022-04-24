@@ -1,0 +1,15 @@
+C:\Users\eula_\Documents\APPSimples\bin\Debug\net6.0\APPSimples.exe
+C:\Users\eula_\Documents\APPSimples\bin\Debug\net6.0\APPSimples.deps.json
+C:\Users\eula_\Documents\APPSimples\bin\Debug\net6.0\APPSimples.runtimeconfig.json
+C:\Users\eula_\Documents\APPSimples\bin\Debug\net6.0\APPSimples.dll
+C:\Users\eula_\Documents\APPSimples\bin\Debug\net6.0\APPSimples.pdb
+C:\Users\eula_\Documents\APPSimples\obj\Debug\net6.0\APPSimples.csproj.AssemblyReference.cache
+C:\Users\eula_\Documents\APPSimples\obj\Debug\net6.0\APPSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eula_\Documents\APPSimples\obj\Debug\net6.0\APPSimples.AssemblyInfoInputs.cache
+C:\Users\eula_\Documents\APPSimples\obj\Debug\net6.0\APPSimples.AssemblyInfo.cs
+C:\Users\eula_\Documents\APPSimples\obj\Debug\net6.0\APPSimples.csproj.CoreCompileInputs.cache
+C:\Users\eula_\Documents\APPSimples\obj\Debug\net6.0\APPSimples.dll
+C:\Users\eula_\Documents\APPSimples\obj\Debug\net6.0\refint\APPSimples.dll
+C:\Users\eula_\Documents\APPSimples\obj\Debug\net6.0\APPSimples.pdb
+C:\Users\eula_\Documents\APPSimples\obj\Debug\net6.0\APPSimples.genruntimeconfig.cache
+C:\Users\eula_\Documents\APPSimples\obj\Debug\net6.0\ref\APPSimples.dll
